@@ -1,0 +1,2 @@
+- Admin area (add new teams)
+- Charts and data
